@@ -1,0 +1,27 @@
+﻿.head {
+    /* background-image:url("coming-soo.gif");*/
+    background-color: #B39C85;
+   
+}
+.body {
+    background-color: #c4b3a1;
+   
+}
+.img_h{
+    padding:10px;
+}
+.text_name {
+    color: azure;
+    text-align: left;
+    line-height: 12.5px;
+  
+}
+a:link {
+    color: #B39C85 !important;
+    text-decoration: none;
+}
+.text_body {
+    color: azure;
+    text-align: left;
+ 
+}
